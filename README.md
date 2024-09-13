@@ -1,6 +1,6 @@
 ## Haiiii!!👋
 
-<h1 align="center">'m MiloAillo A.K.A Faris</h1>
+<h1 align="center">I'm MiloAillo A.K.A Faris</h1>
 <h3 align="center">I'm a begineer coder and my target is to become a fullstack developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miloaillo" alt="miloaillo" /></a> </p>
