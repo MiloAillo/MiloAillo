@@ -1,6 +1,7 @@
 ## Haiiii!!👋
 
-<h1 align="center">I'm MiloAillo A.K.A Faris</h1>
+<h1 align="center">I'm Faris Kahlil Haidar A.K.A MiloAillo</h1>
+<h3 align="center">I'm a student at SMKN 8 Semarang</h3>
 <h3 align="center">I'm a begineer coder and my target is to become a fullstack developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miloaillo" alt="miloaillo" /></a> </p>
