@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AJAX, Fetch API, and tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [miloaillo.github.io](miloaillo.github.io)
+- 👨‍💻 All of my projects are available at [miloaillo.github.io](https//miloaillo.github.io)
 
 - 📫 How to reach me **fariskahlilhaidar@gmail.com**
 
