@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miloaillo" alt="miloaillo" /></a> </p>
 
-- 🌱 I’m currently learning **AJAX, Fetch API, and tailwind CSS**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at <a href="https://miloaillo.github.io">My bio</a> inside the library.
 
