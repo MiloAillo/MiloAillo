@@ -1,6 +1,6 @@
 ## Haiiii!!👋
 
-<h1 align="center">I'm Faris Kahlil Haidar A.K.A MiloAillo</h1>
+<h1 align="center">I'm Faris Kahlil Haidar A.K.A MiloAillo, Mischiko Moe</h1>
 <h3 align="center">I'm a student at SMKN 8 Semarang -  X PPLG III</h3>
 <h3 align="center">I'm a begineer coder and my target is to become a fullstack developer.</h3>
 
