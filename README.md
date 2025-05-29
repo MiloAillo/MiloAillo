@@ -1,4 +1,5 @@
-<h1 align="center">Hiiyyaaa!!👋 Faris Kahlil Haidar A.K.A Mischiko Moe, MiloAillo</h1>
+## Hiiyyaaa!!👋 
+<h1 align="center">I'm Faris Kahlil Haidar A.K.A Mischiko Moe, MiloAillo</h1>
 <h3 align="center">I'm a student at SMKN 8 Semarang</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miloaillo&label=Profile%20views&color=b0b0b0&style=flat" alt="miloaillo" /> </p>
