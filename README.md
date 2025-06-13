@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **School Project**
 
-- 🌱 I’m currently learning **Javascript ES6 OOP(Done), Typescript(ongoing), NestJS**
+- 🌱 I’m currently learning **Javascript ES6 OOP(Done), Typescript(done), NestJS(ongoing)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiloAillo?tab=repositories](https://github.com/MiloAillo?tab=repositories)
 
