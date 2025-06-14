@@ -1,3 +1,7 @@
+## Hiiyyaaa!!👋 
+<h1 align="center">I'm Faris Kahlil Haidar A.K.A Mischiko Moe, MiloAillo</h1>
+<h3 align="center">I'm a student at SMKN 8 Semarang</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on nothing!<br><br>🌱 I’m currently learning NestJS<br><br>👨‍💻 All of my projects are available at https://github.com/MiloAillo?tab=repositories<br><br>💬 Ask me about My Mental State!<br><br>📫 reach me at fariskahlilhaidar@gmail.com
 
