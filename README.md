@@ -3,7 +3,7 @@
 <h3 align="center">I'm a student at SMKN 8 Semarang</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on creating a beautiful looking landing page using modern technologies<br><br>🌱 I’m currently learning TailwindCSS<br><br>💭 I plan to learn more backend technologies!<br><br>👨‍💻 All of my projects are available at https://github.com/MiloAillo?tab=repositories<br><br>💬 Ask me about My Mental State!<br><br>📫 reach me at fariskahlilhaidar@gmail.com
+🔭 I’m currently working on creating a beautiful looking landing page using modern technologies<br><br>🌱 I’m currently learning Nothing!<br><br>💭 I plan to learn more backend technologies!<br><br>👨‍💻 All of my projects are available at https://github.com/MiloAillo?tab=repositories<br><br>💬 Ask me about My Mental State!<br><br>📫 reach me at fariskahlilhaidar@gmail.com
 
 
 ## 🌐 Socials:
