@@ -3,7 +3,7 @@
 <h3 align="center">I'm a student at SMKN 8 Semarang</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on refining my server architecture!<br><br>🌱 I’m currently learning nothing!<br><br>💭 I plan to learn Pytorch!<br><br>👨‍💻 All of my projects are available at https://github.com/MiloAillo?tab=repositories<br><br>💬 Ask me about My Mental State!<br><br>📫 reach me at fariskahlilhaidar@gmail.com
+🔭 I’m currently working on making automation tool!<br><br>🌱 I’m currently learning Baileys!<br><br>💭 I plan to learn more about automation integrated with AI!<br><br>👨‍💻 All of my projects are available at https://github.com/MiloAillo?tab=repositories<br><br>💬 Ask me about My Mental State!<br><br>📫 reach me at fariskahlilhaidar@gmail.com
 
 
 ## 🌐 Socials:
