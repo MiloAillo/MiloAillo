@@ -1,32 +1,135 @@
-## Hiiyyaaa!!👋 
-<h1 align="center">I'm Faris Kahlil Haidar A.K.A Mischiko Moe, MiloAillo</h1>
-<h3 align="center">I'm a student at SMKN 8 Semarang</h3>
+<h1 align="center">Hiiya, I'm Faris Kahlil Haidar</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on making automation tool!<br><br>🌱 I’m currently learning Baileys!<br><br>💭 I plan to learn more about automation integrated with AI!<br><br>👨‍💻 All of my projects are available at https://github.com/MiloAillo?tab=repositories<br><br>💬 Ask me about My Mental State!<br><br>📫 reach me at fariskahlilhaidar@gmail.com
+<p>A. K. A Mischiko Moe, MiloAillo. I'm frontend-focused developer, part-time backend, and a beginner DevOps.</p>
+<p>I also do homelabbing with my own Raspberry-Pi inside a private network maintained by Zerotier.</p>
 
+<a href="https://www.linkedin.com/in/faris-kahlil-haidar-7bb35031b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=&logoColor=white">
+</a>
+<a href="https://www.instagram.com/miloukato">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=&logoColor=white">
+</a>
+<a href="mailto://fariskahlilhaidar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=&logoColor=white">
+</a>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mischikomoe.bsky.social) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/miloukato) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mischikomoe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fariskahlilhaidar@gmail.com) 
+### 🛠️ Tech
+<table width="100%">
+  <tr>
+    <td width="25%"><strong>Game Development</strong></td>
+    <td width="75%">
+        <img src="https://img.shields.io/badge/HTML5-DC4D25?style=for-the-badge&logo=HTML5&logoColor=white">
+        <img src="https://img.shields.io/badge/Javascript-FFD400?style=for-the-badge&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-652076?style=for-the-badge&logo=c&logoColor=white">
+        <img src="https://img.shields.io/badge/Roblox Studio-000000?style=for-the-badge&logo=roblox&logoColor=white">
+        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Frontend & UI</strong></td>
+    <td width="75%">
+        <img src="https://img.shields.io/badge/React%20Router-EC404D?style=for-the-badge&logo=reactrouter&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-DC4D25?style=for-the-badge&logo=HTML5&logoColor=white">
+        <img src="https://img.shields.io/badge/Javascript-FFD400?style=for-the-badge&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/TailwindCSS-36B7F0?style=for-the-badge&logo=tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/Typescript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Axios-5728DD?style=for-the-badge&logo=axios&logoColor=white">
+        <img src="https://img.shields.io/badge/Framer%20Motion-564F98?style=for-the-badge&logo=framermotion&logoColor=white">
+        <img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Backend & Database</strong></td>
+    <td width="75%">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+        <img src="https://img.shields.io/badge/Javascript-FFD400?style=for-the-badge&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/Typescript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+        <img src="https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Infra & DevOps</strong></td>
+    <td width="75%">
+        <img src="https://img.shields.io/badge/Raspberry PI-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+        <img src="https://img.shields.io/badge/zerotier-FFB441?style=for-the-badge&logo=zerotier&logoColor=white">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/glitch-3333FF?style=for-the-badge&logo=glitch&logoColor=white">
+        <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Tools & Design</strong></td>
+    <td width="75%">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Canva-5E3AE7?style=for-the-badge&logo=&logoColor=white">
+        <img src="https://img.shields.io/badge/lightroom-001D34?style=for-the-badge&logo=&logoColor=white">
+        <img src="https://img.shields.io/badge/Ibispaint-2D2D2D?style=for-the-badge&logo=&logoColor=white">
+    </td>
+  </tr>
+    <tr>
+    <td width="25%"><strong>Bot & Automation</strong></td>
+    <td width="75%">
+        <img src="https://img.shields.io/badge/Baileys-14C6A4?style=for-the-badge&logo=&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MiloAillo&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MiloAillo&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiloAillo&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 💬 More About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MiloAillo&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+<p>I occasionally do photograph and has a very specific taste in the audio field.</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MiloAillo&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+<p>You can visit my <a href="https://www.instagram.com/miloukato">instagram</a> to see my photographs.</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### 🎧 Audio Gear
+<table width="100%">
+  <tr>
+    <td width="25%"><strong>IEMs & Headphones</strong></td>
+    <td width="75%">
+        <img src="https://img.shields.io/badge/Simgot EW300-BDBDBD?style=for-the-badge&logo=&logoColor=white">
+        <img src="https://img.shields.io/badge/Tangzu YuXuanji-FFFFFF?style=for-the-badge&logo=&logoColor=white">
+        <img src="https://img.shields.io/badge/Fiio JT7-D3003A?style=for-the-badge&logo=&logoColor=white">
+        <img src="https://img.shields.io/badge/KZ ZSX-000000?style=for-the-badge&logo=&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Cables</strong></td>
+    <td width="75%">
+        <img src="https://img.shields.io/badge/Tripowin Amber-FFFFFF?style=for-the-badge&logo=&logoColor=white">
+    </td>
+  </tr>
+    <tr>
+    <td width="25%"><strong>DAC & AMP</strong></td>
+    <td width="75%">
+        <img src="https://img.shields.io/badge/Fiio Retro Nano-D3003A?style=for-the-badge&logo=&logoColor=white">
+    </td>
+  </tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=MiloAillo&icon=7&color=3)](https://visitcount.itsvg.in)
+## 📊 Github Stats
 
-[![](https://i.pinimg.com/736x/15/63/f7/1563f7650c948fed84bb6d7e652e70c1.jpg)](https://www.youtube.com/watch?v=GBIIQ0kP15E)
+<table width="100%">
+  <tr>
+    <td width="100%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MiloAillo&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false">
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=MiloAillo&theme=ambient_gradient&hide_border=false">
+    </td>
+  </tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##
+<h2 align="center">Spread the wings, will the sky fall. <br> Shall the body stand, along with the stars.</h2>
+<p align="right">- Mischiko</p>
+
