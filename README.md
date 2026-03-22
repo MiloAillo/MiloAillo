@@ -1,20 +1,23 @@
 <h1 align="center">Hiiya, I'm Faris Kahlil Haidar</h1>
 
-<p>A. K. A Mischiko Moe, MiloAillo. I'm frontend-focused developer, part-time backend, and a beginner DevOps.</p>
-<p>I also do homelabbing with my own Raspberry-Pi inside a private network maintained by Zerotier.</p>
+<p align="center">A. K. A Mischiko Moe, MiloAillo. I'm frontend-focused developer, part-time backend, and a beginner DevOps.</p>
+<p align="center">I also do homelabbing with my own Raspberry-Pi inside a private network maintained by Zerotier.</p>
 
-<a href="https://www.linkedin.com/in/faris-kahlil-haidar-7bb35031b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=&logoColor=white">
-</a>
-<a href="https://www.instagram.com/miloukato">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=&logoColor=white">
-</a>
-<a href="mailto://fariskahlilhaidar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=&logoColor=white">
-</a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/faris-kahlil-haidar-7bb35031b">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/miloukato">
+        <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=&logoColor=white">
+    </a>
+    <a href="mailto://fariskahlilhaidar@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=&logoColor=white">
+    </a>
+</div>
 
-### 🛠️ Tech
-<table width="100%">
+<h2 align="center">🛠️ Tech</h2>
+
+<table align="center" width="100%">
   <tr>
     <td width="25%"><strong>Game Development</strong></td>
     <td width="75%">
@@ -83,14 +86,14 @@
   </tr>
 </table>
 
-## 💬 More About Me
+<h2 align="center">💬 More About Me</h2>
 
-<p>I occasionally do photograph and has a very specific taste in the audio field.</p>
+<p align="center">I occasionally do photograph and has a very specific taste in the audio field.</p>
 
-<p>You can visit my <a href="https://www.instagram.com/miloukato">instagram</a> to see my photographs.</p>
+<p align="center">You can visit my <a href="https://www.instagram.com/miloukato">instagram</a> to see my photographs.</p>
 
-### 🎧 Audio Gear
-<table width="100%">
+<h3 align="center">🎧 Audio Gear</h3>
+<table align="center" width="100%">
   <tr>
     <td width="25%"><strong>IEMs & Headphones</strong></td>
     <td width="75%">
@@ -114,9 +117,9 @@
   </tr>
 </table>
 
-## 📊 Github Stats
+<h2 align="center">📊 Github Stats</h2>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=MiloAillo&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false">
@@ -130,6 +133,10 @@
 </table>
 
 ##
-<h2 align="center">Spread the wings, will the sky fall. <br> Shall the body stand, along with the stars.</h2>
-<p align="right">- Mischiko</p>
+<div align="center">
+    <img width="50%" src="./images/1.jpg">
+    <br>
+    <br>
+    <img width="50%" src="./images/quotes.png">
+</div>
 
